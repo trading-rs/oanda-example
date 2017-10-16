@@ -1,0 +1,3 @@
+[submodule "include/oanda-trading"]
+	path = include/oanda-trading
+	url = https://github.com/zjhmale/oanda-trading
